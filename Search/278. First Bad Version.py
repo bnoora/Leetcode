@@ -14,3 +14,6 @@ class Solution:
             else:
                 low = mid + 1 
         return previ
+    
+def isBadVersion(n):
+    pass

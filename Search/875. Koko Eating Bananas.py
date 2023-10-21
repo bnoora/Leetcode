@@ -1,3 +1,5 @@
+import math
+
 class Solution:
     def minEatingSpeed(self, piles: [int], h: int) -> int:
         low = 1
